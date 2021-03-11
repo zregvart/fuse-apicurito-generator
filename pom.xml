@@ -33,7 +33,7 @@
 		<fuse.version>7.2.0.fuse-720018</fuse.version>
 		<camel.version>2.21.0.fuse-720046</camel.version>
 		<snakeyaml.version>1.18</snakeyaml.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 
 	</properties>
 
